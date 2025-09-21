@@ -54,7 +54,7 @@ interests:
   - AI Ethics
 
 education:
-  - area: PhD student, Applied Psychology and Human Development (Focus: Psychometric and AI)
+  - area: PhD student, Applied Psychology and Human Development (Focus\: Psychometric and AI)
     institution: University of Toronto
     date_start: 2025-09-01
     date_end: 2029-06-30
@@ -64,7 +64,7 @@ education:
 #      text: 'Read Thesis'
 #      url: 'https://example.com/thesis.pdf'
 
-  - area: MSc, Environmental Engineering (Focus: System Analysis)
+  - area: MSc, Environmental Engineering (Focus\: System Analysis)
     institution: Tsinghua University
     date_start: 2022-09-01
     date_end: 2025-06-30
