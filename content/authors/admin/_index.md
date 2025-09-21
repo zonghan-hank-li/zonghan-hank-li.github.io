@@ -56,20 +56,24 @@ interests:
 education:
   - area: PhD student, Applied Psychology & Human Development (Focus: Psychometric and AI). 
     institution: University of Toronto
-    date_start: 2025-09
-    date_end: 2029-06
-
+    date_start: 2025-09-01
+    date_end: 2029-06-30
+#    summary: |
+#      Thesis on _Scaling Laws for Neural Language Models_. Supervised by Prof. Andrew Ng. Published 5 papers in NeurIPS and ICML, with 2 best paper awards.
+#    button:
+#      text: 'Read Thesis'
+#      url: 'https://example.com/thesis.pdf'
   - area: MSc, Environmental Engineering (Focus: System Analysis)
     institution: Tsinghua University
-    date_start: 2022-09
-    date_end: 2025-06
+    date_start: 2022-09-01
+    date_end: 2025-06-30
     summary: |
       GPA: 3.97/4.0
     
   - area: BEcon, Applied Economics
     institution: China University of Petroleum
-    date_start: 2018-09
-    date_end: 2022-06
+    date_start: 2018-09-01
+    date_end: 2022-06-30
     summary: |
       GPA: 92.5/100.0
 
