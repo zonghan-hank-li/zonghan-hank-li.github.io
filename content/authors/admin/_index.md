@@ -58,11 +58,7 @@ education:
     institution: University of Toronto
     date_start: 2025-09
     date_end: 2029-06
-#    summary: |
-#      Thesis on _Scaling Laws for Neural Language Models_. Supervised by Prof. Andrew Ng. Published 5 papers in NeurIPS and ICML, with 2 best paper awards.
-#    button:
-#      text: 'Read Thesis'
-#      url: 'https://example.com/thesis.pdf'
+
   - area: MSc, Environmental Engineering (Focus: System Analysis)
     institution: Tsinghua University
     date_start: 2022-09
