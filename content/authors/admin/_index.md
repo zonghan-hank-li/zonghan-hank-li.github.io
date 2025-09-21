@@ -1,13 +1,13 @@
 ---
 # Display name
-title: Alex Johnson
+title: Zonghan Li
 
 # Name pronunciation (optional)
 name_pronunciation: ''
 
 # Full name (for SEO)
-first_name: Alex
-last_name: Johnson
+first_name: Zonghan
+last_name: Li
 
 # Pronouns (optional)
 pronouns: he/him
@@ -23,23 +23,23 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Senior AI Research Scientist
+role: PhD Student | Researcher in Psychometric & Responsible AI
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Meta AI
-    url: https://ai.meta.com/
+  - name: University of Toronto
+    url: https://www.utoronto.ca
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:alex.johnson@meta.com'
+    url: 'mailto:zonghan.li@outlook.com'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/AlexAIResearch
-  - icon: brands/github
-    url: https://github.com/alexjohnsonai
+#  - icon: brands/x
+#    url: https://twitter.com/AlexAIResearch
+#  - icon: brands/github
+#    url: https://github.com/alexjohnsonai
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/alexjohnsonai/
   - icon: academicons/google-scholar
